@@ -3,7 +3,7 @@ import java.awt.Graphics;
 import java.awt.Rectangle;
 
 public class Cell {
- 
+  
 	private int x, y;
 	private int vx, vy;
 	private int status = 0; // healthy is 0
