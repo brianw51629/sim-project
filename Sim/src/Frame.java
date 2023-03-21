@@ -14,7 +14,7 @@ import javax.swing.Timer;
 public class Frame extends JPanel implements KeyListener, ActionListener{
 	ArrayList<Cell> cells = new ArrayList<Cell>();
 	// instance variables - "global" variables
-	
+	 
 	int x = 0;
 	public void paint(Graphics g) {
 		super.paintComponent(g);
